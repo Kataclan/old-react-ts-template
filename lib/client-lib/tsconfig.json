@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es5",
+        "jsx": "react", 
+        "declaration": true  ,    
+        "outDir": "./bin",
+        "inlineSources": true,
+        "inlineSourceMap": true,
+        "rootDir": "./src"        
+    }, 
+    "files": [
+        "src/**/*.ts",
+        "src/**/*.tsx"
+    ]
+}

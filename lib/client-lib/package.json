@@ -1,0 +1,9 @@
+{
+  "name": "client-lib",
+  "version": "1.0.0",
+  "description": "Ajax Api for web client",
+  "author": "Juan Coll Soler",
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
